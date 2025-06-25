@@ -3,10 +3,6 @@
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Gardenify-green?style=for-the-badge&logo=firebase)](https://gardening-auth.web.app/)
 
 
-![View](https://i.ibb.co/ZptHHyZf/ss.png)  
-<img src="https://i.ibb.co/actualfilename.png" width="600"/>
-
-
 
 ## 🌱 About The Project
 
