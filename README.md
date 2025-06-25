@@ -1,10 +1,12 @@
 # 🌿 Gardenify - Gardening Community Platform
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Gardenify-green?style=for-the-badge&logo=firebase)](https://gardening-auth.web.app/)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
-![Gardenify Screenshot](https://via.placeholder.com/800x400?text=Gardenify+App+Screenshot)  
-*(Replace with actual screenshot)*
+
+![View](https://i.ibb.co/ZptHHyZf/ss.png)  
+<img src="https://i.ibb.co/actualfilename.png" width="600"/>
+
+
 
 ## 🌱 About The Project
 
