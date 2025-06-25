@@ -47,7 +47,29 @@ Gardenify bridges the gap between gardening enthusiasts and expert advice. This 
 - Firebase account
 - MongoDB Atlas account
 
-### Installation
-1. Clone the repository
+### 🚀 Installation
+
+1. **Clone the Repository**
    ```bash
    git clone https://github.com/yourusername/gardenify.git
+   ```
+
+2. **Navigate to the Project Directory**
+   ```bash
+   cd gardenify
+   ```
+
+3. **Install Dependencies**
+   ```bash
+   npm install
+   ```
+
+4. **Create Environment File**
+   ```bash
+   cp .env.example .env
+   ```
+
+5. **Start the Development Server**
+   ```bash
+   npm run dev
+   ```
